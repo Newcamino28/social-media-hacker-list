@@ -110,24 +110,23 @@ If you would like to add a project or suggest some other correction, edit this r
 
 ### Mastodon
 
-|  # |  |  | Name | Platform | Description |
-|:--:| --- | --- | --- | --- | --- |
-| 1. | 🟪 |  | [iMast](https://apps.apple.com/us/app/imast/id1229461703) | iOS, iPad | Mastodon client for iPhones and iPads |
-| 2. | 🟪 |  | [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) | Mac, iOS, iPad, Apple Watch | Beautiful Microblogging |
-| 3. | ⬛ | [❋](https://github.com/TheTarr/mastodon_bot) | [Mastodon Bot](https://github.com/TheTarr/mastodon_bot) | Bot | Auto-reply bot for Mastodon (Chinese) |   
-| 4. | 🟫 | [❋](https://github.com/halcy/Mastodon.py) | [Mastodon.py](https://github.com/halcy/Mastodon.py) | Python | Python wrapper for the Mastodon API | 
-| 5. | 🟫 | [❋](https://github.com/neet/masto.js) | [Masto.js](https://neet.github.io/masto.js/) | JavaScript | Mastodon API client for JavaScript, TypeScript, Node.js, browsers | 
-| 6. | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
-| 7. | 🟪 |  | [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) | iOS | Beautiful, elegant, and performant Mastodon client app |
-| 8. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
-| 9. | 🟨 | [❋](https://github.com/kha7iq/pingme) | [PingMe](https://pingme.lmno.pk/) | MacOS, GH Action | CLI to send messages to various messaging platforms incl. Mastodon |
-| 10. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
-| 11. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
-| 12. | 🟪 | [❋](https://github.com/cutls/TheDesk) | [TheDesk](https://github.com/cutls/TheDesk) | Windows, Mac, Linux | Desktop client |
-| 13. | 🟪 |  | [tooot](https://apps.apple.com/us/app/tooot/id1549772269) | iOS | Open source, simple yet elegant Mastodon mobile client |
-| 14. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
-| 15. | 🟫 | [❋](https://github.com/joschi/toot-together) | [Toot Together](https://github.com/joschi/toot-together) | GH Action | Publish toots from a GitHub repository | 
-| 16. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
+|  #  |  |  | Name | Platform | Description |
+|:---:| --- | --- | --- | --- | --- |
+| 1.  | 🟪 |  | [iMast](https://apps.apple.com/us/app/imast/id1229461703) | iOS, iPad | Mastodon client for iPhones and iPads |
+| 2.  | 🟪 |  | [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) | Mac, iOS, iPad, Apple Watch | Beautiful Microblogging |
+| 3.  | 🟫 | [❋](https://github.com/halcy/Mastodon.py) | [Mastodon.py](https://github.com/halcy/Mastodon.py) | Python | Python wrapper for the Mastodon API | 
+| 4.  | 🟫 | [❋](https://github.com/neet/masto.js) | [Masto.js](https://neet.github.io/masto.js/) | JavaScript | Mastodon API client for JavaScript, TypeScript, Node.js, browsers | 
+| 5.  | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
+| 6.  | 🟪 |  | [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) | iOS | Beautiful, elegant, and performant Mastodon client app |
+| 7.  | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
+| 8.  | 🟨 | [❋](https://github.com/kha7iq/pingme) | [PingMe](https://pingme.lmno.pk/) | MacOS, GH Action | CLI to send messages to various messaging platforms incl. Mastodon |
+| 9.  | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
+| 10. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
+| 11. | 🟪 | [❋](https://github.com/cutls/TheDesk) | [TheDesk](https://github.com/cutls/TheDesk) | Windows, Mac, Linux | Desktop client |
+| 12. | 🟪 |  | [tooot](https://apps.apple.com/us/app/tooot/id1549772269) | iOS | Open source, simple yet elegant Mastodon mobile client |
+| 13. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
+| 14. | 🟫 | [❋](https://github.com/joschi/toot-together) | [Toot Together](https://github.com/joschi/toot-together) | GH Action | Publish toots from a GitHub repository | 
+| 15. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
 
 * * *
 
@@ -164,6 +163,7 @@ Apps that can be used across multiple social media apps.
 | 24. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
 | 25. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
 | 26. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 27. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
 
 
 * * *
@@ -184,8 +184,7 @@ Apps that can be used across multiple social media apps.
 | 10. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
 | 11. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
 | 12. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
-| 13. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
-| 14. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
+| 13. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
 
 * * * 
 
@@ -223,54 +222,50 @@ Apps that can be used across multiple social media apps.
 
 ### X
 
-|  # | |  | Name | Platform | Description |
-|:--:| --- | --- | --- | --- | --- |
-| 1. | 🟪 | | [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) | Android | Albatross for Twitter is an ad-free, effortless Twitter client |  
-| 2. | ⬛ | | [AwardThisTweet](https://twitter.com/AwardThisTweet) | Bot | Award your favorite tweets with this bot |
-| 3. | 🟨 | [❋](https://github.com/eramdam/BetterTweetDeck) | [Better TweetDeck](https://better.tw/) | Extension | A browser extension to improve TweetDeck with a lot of features |
-| 4. | 🟧 | | [Blindspotter](https://ground.news/blindspotter/twitter) | Web | Analyze the news diet of any account on Twitter |
-| 5. | 🟨 | | [Block Party](https://www.blockpartyapp.com/) | App | filter out unwanted Twitter @mentions | 
-| 6. | 🟧 | | [Blolook](https://blolook.osa-p.net/) | Web | This service provides information on how many accounts are blocking your account. |
-| 7. | 🟨 | | [Bkmark](https://bkmark.io) | Extension, bot | Bookmark your favorite tweets |
-| 8. | 🟨 | | [Changelog.life](https://changelog.life/) | Web | A Changelog automatically generated from your Tweets |
-| 9.  | 🟩 | | [Chirpty](https://chirpty.com/) | Web |  Create your own Twitter interaction circle |
-| 10. | 🟦 | | [Chirr App](https://getchirrapp.com/) | Web | Thread creation tool |
-| 11. | 🟨 | | [Dewey](https://getdewey.co/) | Web | Search, organize, and share all your Twitter bookmarks |
-| 12. | 🟥 | | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
-| 13. | 🟪 | | [Echofon](https://echofon.com/) | iOS, Android | Twitter app for iOS and Android. |  
-| 14. | 🟧 | | [ExportData](https://www.exportdata.io/) | Web | Export Twitter Historical Data |
-| 15. | 🟧 | | [Ilo](https://ilo.so/) | Web | Twitter analytics |
-| 16. | 🟪 | | [Kizie](https://kizie.co) | Web | Cleaner, better way to browse Twitter |
-| 17. | 🟨 | | [Megablock](https://megablock.xyz/) | Web | Block the tweet, its author, and every single person who liked it. |
-| 18. | 🟩 | | [Mugshot Bot](https://mugshotbot.com/) | Web | Automated link previews |
-| 19. | 🟪 | [❋](https://github.com/zedeus/nitter) | [Nitter.net](https://github.com/zedeus/nitter) | Web | Replace twitter.com with nitter.net to browse Twitter anonymously  |
-| 20. | 🟩 | | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
-| 21. | ⬛ | | [Pikaso Twitter Bot](https://pikaso.me/twitter-bot) | Bot | Screenshotting bot for Twitter |
-| 22. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
-| 23. | 🟩 | | [poet.so](https://poet.so/) | Web | Capture and share tweets as images | 
-| 24. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
-| 25. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
-| 26. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
-| 27. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
-| 28. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 29. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 30. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 31. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 32. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 33. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 34. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
-| 35. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
-| 36. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 37. | 🟨 | | [Twitter One Click Block](https://chromewebstore.google.com/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
-| 38. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 39. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
-| 40. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 41. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 42. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
-| 43. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 44. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
-| 45. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader
-| 46. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs
+|  #  | |  | Name | Platform | Description |
+|:---:| --- | --- | --- | --- | --- |
+| 1.  | 🟪 | | [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) | Android | Albatross for Twitter is an ad-free, effortless Twitter client |  
+| 2.  | ⬛ | | [AwardThisTweet](https://twitter.com/AwardThisTweet) | Bot | Award your favorite tweets with this bot |
+| 3.  | 🟧 | | [Blindspotter](https://ground.news/blindspotter/twitter) | Web | Analyze the news diet of any account on Twitter |
+| 4.  | 🟨 | | [Block Party](https://www.blockpartyapp.com/) | App | filter out unwanted Twitter @mentions | 
+| 5.  | 🟧 | | [Blolook](https://blolook.osa-p.net/) | Web | This service provides information on how many accounts are blocking your account. |
+| 6.  | 🟨 | | [Bkmark](https://bkmark.io) | Extension, bot | Bookmark your favorite tweets |
+| 7.  | 🟨 | | [Changelog.life](https://changelog.life/) | Web | A Changelog automatically generated from your Tweets |
+| 8.  | 🟩 | | [Chirpty](https://chirpty.com/) | Web |  Create your own Twitter interaction circle |
+| 9.  | 🟦 | | [Chirr App](https://getchirrapp.com/) | Web | Thread creation tool |
+| 10. | 🟨 | | [Dewey](https://getdewey.co/) | Web | Search, organize, and share all your Twitter bookmarks |
+| 11. | 🟥 | | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
+| 12. | 🟪 | | [Echofon](https://echofon.com/) | iOS, Android | Twitter app for iOS and Android. |  
+| 13. | 🟧 | | [ExportData](https://www.exportdata.io/) | Web | Export Twitter Historical Data |
+| 14. | 🟧 | | [Ilo](https://ilo.so/) | Web | Twitter analytics |
+| 15. | 🟪 | | [Kizie](https://kizie.co) | Web | Cleaner, better way to browse Twitter |
+| 16. | 🟨 | | [Megablock](https://megablock.xyz/) | Web | Block the tweet, its author, and every single person who liked it. |
+| 17. | 🟩 | | [Mugshot Bot](https://mugshotbot.com/) | Web | Automated link previews |
+| 18. | 🟪 | [❋](https://github.com/zedeus/nitter) | [Nitter.net](https://github.com/zedeus/nitter) | Web | Replace twitter.com with nitter.net to browse Twitter anonymously  |
+| 19. | 🟩 | | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
+| 20. | ⬛ | | [Pikaso Twitter Bot](https://pikaso.me/twitter-bot) | Bot | Screenshotting bot for Twitter |
+| 21. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
+| 22. | 🟩 | | [poet.so](https://poet.so/) | Web | Capture and share tweets as images | 
+| 23. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
+| 24. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
+| 25. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
+| 26. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
+| 27. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
+| 28. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 29. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 30. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 31. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 32. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 33. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 34. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
+| 35. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 36. | 🟨 | | [Twitter One Click Block](https://chromewebstore.google.com/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 37. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 38. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
+| 39. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 40. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
+| 41. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader
+| 42. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs
 
 
 * * *
